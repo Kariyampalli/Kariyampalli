@@ -1,36 +1,44 @@
 # About Me
 
-Hi there! I'm **Christy Kariyampalli**, a passionate software developer with a keen interest in expanding my expertise across various IT fields. I enjoy solving complex problems and continuously improving my skills, especially in **web development** and **machine learning/artificial intelligence (ML/AI)**.
+Hi, I'm **_Christy Kariyampalli_**, a passionate software developer always eager to learn and grow. Currently, I'm focused on **web development** and diving into the world of **machine learning** and **artificial intelligence (ML/AI)**.
 
 ## Featured Projects
 
 ### Verse Interpreter
 
-A beta interpreter for **Verse**, a programming language developed by _Epic Games_ (pre-launch version). This project runs basic scripts written in Verse, exploring its functionality before its public release. Created by my friend [_Marcel_](https://github.com/Marcel-TO) and me.
+> A beta interpreter for **Verse**, a programming language developed by _Epic Games_ (pre-launch version). This project runs basic scripts written in Verse, exploring its functionality before its public release. Created by my friend [_Marcel_](https://github.com/Marcel-TO) and me.
 
 [This isn't gonna run Fortnite... so go easy on it :)](https://github.com/Kariyampalli/Befunge-Interpreter)
 
+---
+
 ### Befunge Interpreter
 
-An interpreter for **Befunge-93**, a unique esoteric programming language. It allows you to run Befunge code and experiment with its distinctive two-dimensional execution model.
+> An interpreter for **Befunge-93**, a unique esoteric programming language. It allows you to run Befunge code and experiment with its distinctive two-dimensional execution model.
 
 [Want to test your Befunge program?](https://github.com/Kariyampalli/Befunge-Interpreter)
 
+---
+
 ### Chess Game
 
-An offline **Chess game** developed in **C#** using **WPF**. This project features a simple, intuitive interface for playing chess against another local player.
+> An offline **Chess game** developed in **C#** using **WPF**. This project features a simple, intuitive interface for playing chess against another local player.
 
 [Lonely? Great! play against yourself.](https://github.com/Kariyampalli/Befunge-Interpreter)
 
+---
+
 ### Sudoku Solver
 
-A console-based application that solves Sudoku puzzles using an efficient backtracking algorithm. Input your puzzle, and watch as it finds the solution step by step.
+> A console-based application that solves Sudoku puzzles using an efficient backtracking algorithm. Input your puzzle, and watch as it finds the solution step by step.
 
 [Having problems solving your Sudoku?](https://github.com/Kariyampalli/Sudoku-Solver)
 
+---
+
 ### Software Development Crash Course
 
-A hands-on crash course to sharpen my software development skills using **Azure Kubernetes Service (AKS)**, **Azure Devops** and **Docker**. This project explores cloud-native application deployment and containerization practices.
+> A hands-on crash course to sharpen my software development skills using **Azure Kubernetes Service (AKS)**, **Azure Devops** and **Docker**. This project explores cloud-native application deployment and containerization practices.
 
 [Interested in Azure + containers?](https://github.com/Kariyampalli/Befunge-Interpreter)
 
@@ -49,11 +57,15 @@ A hands-on crash course to sharpen my software development skills using **Azure 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+---
+
 ### Database Management Systems
 
 ![SQL](https://img.shields.io/badge/sql-%230066CC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/mssql-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+---
 
 ### Frameworks
 
@@ -66,6 +78,8 @@ A hands-on crash course to sharpen my software development skills using **Azure 
 ![Xamarin](https://img.shields.io/badge/xamarin-%232D75B6.svg?style=for-the-badge&logo=xamarin&logoColor=white)
 ![Java Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23F7EA00.svg?style=for-the-badge&logo=java&logoColor=black)
 
+---
+
 ### Others
 
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -73,6 +87,8 @@ A hands-on crash course to sharpen my software development skills using **Azure 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/azure%20devops-%230072C6.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-%234B8BBE.svg?style=for-the-badge&logo=selenium&logoColor=white)
+
+---
 
 ### What am I currently working on?
 
