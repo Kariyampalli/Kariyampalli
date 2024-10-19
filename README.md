@@ -2,6 +2,42 @@
 
 Hi, I'm **_Christy Kariyampalli_**, a passionate software developer always eager to learn and grow. Currently, I'm focused on **web development** and diving into the world of **machine learning** and **artificial intelligence (ML/AI)**.
 
+## Skills
+
+### Languages
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Prolog](https://img.shields.io/badge/prolog-%23E61B23.svg?style=for-the-badge&logoColor=white)
+![Haskell](https://img.shields.io/badge/haskell-%235e5086.svg?style=for-the-badge&logo=haskell&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+---
+
+### Database Management Systems
+
+![SQL](https://img.shields.io/badge/sql-%230066CC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/mssql-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+---
+
+### Frameworks
+
+![Angular](https://img.shields.io/badge/angular-%E03A3E.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404C5C.svg?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%238E2EAA.svg?style=for-the-badge&logo=.net&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%23007ACC.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![WPF](https://img.shields.io/badge/wpf-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Xamarin](https://img.shields.io/badge/xamarin-%232D75B6.svg?style=for-the-badge&logo=xamarin&logoColor=white)
+![Java Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23F7EA00.svg?style=for-the-badge&logo=java&logoColor=black)
+
 ## Featured Projects
 
 ### Verse Interpreter
@@ -41,44 +77,6 @@ Hi, I'm **_Christy Kariyampalli_**, a passionate software developer always eager
 > A hands-on crash course to sharpen my software deployment skills using **Azure Kubernetes Service (AKS)**, **Azure Devops** and **Docker**. This project explores cloud-native application deployment and containerization practices.
 
 [Looking for an Azure-based software deployment pipeline?](https://github.com/Kariyampalli/Software-Deployment)
-
-## Skills
-
-### Languages
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Prolog](https://img.shields.io/badge/prolog-%23E61B23.svg?style=for-the-badge&logoColor=white)
-![Haskell](https://img.shields.io/badge/haskell-%235e5086.svg?style=for-the-badge&logo=haskell&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
----
-
-### Database Management Systems
-
-![SQL](https://img.shields.io/badge/sql-%230066CC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/mssql-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
----
-
-### Frameworks
-
-![Angular](https://img.shields.io/badge/angular-%E03A3E.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404C5C.svg?style=for-the-badge&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%238E2EAA.svg?style=for-the-badge&logo=.net&logoColor=white)
-![Blazor](https://img.shields.io/badge/blazor-%23007ACC.svg?style=for-the-badge&logo=blazor&logoColor=white)
-![WPF](https://img.shields.io/badge/wpf-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Xamarin](https://img.shields.io/badge/xamarin-%232D75B6.svg?style=for-the-badge&logo=xamarin&logoColor=white)
-![Java Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23F7EA00.svg?style=for-the-badge&logo=java&logoColor=black)
-
----
 
 ### Others
 
