@@ -8,7 +8,7 @@ Hi, I'm **_Christy Kariyampalli_**, a passionate software developer always eager
 
 > A beta interpreter for **Verse**, a programming language developed by _Epic Games_ (pre-launch version). This project runs basic scripts written in Verse, exploring its functionality before its public release. Created by my friend [_Marcel_](https://github.com/Marcel-TO) and me.
 
-[This isn't gonna run Fortnite... so go easy on it :)](https://github.com/Kariyampalli/Befunge-Interpreter)
+[This won't run Fortnite... so go easy on it :)](https://github.com/Marcel-TO/Verse-Interpreter-in-Python)
 
 ---
 
@@ -24,7 +24,7 @@ Hi, I'm **_Christy Kariyampalli_**, a passionate software developer always eager
 
 > An offline **Chess game** developed in **C#** using **WPF**. This project features a simple, intuitive interface for playing chess against another local player.
 
-[Lonely? Great! play against yourself.](https://github.com/Kariyampalli/Befunge-Interpreter)
+[Lonely? Great! play against yourself.](https://github.com/Kariyampalli/WPF-Chess)
 
 ---
 
@@ -36,11 +36,11 @@ Hi, I'm **_Christy Kariyampalli_**, a passionate software developer always eager
 
 ---
 
-### Software Development Crash Course
+### Software Deployment Crash Course
 
-> A hands-on crash course to sharpen my software development skills using **Azure Kubernetes Service (AKS)**, **Azure Devops** and **Docker**. This project explores cloud-native application deployment and containerization practices.
+> A hands-on crash course to sharpen my software deployment skills using **Azure Kubernetes Service (AKS)**, **Azure Devops** and **Docker**. This project explores cloud-native application deployment and containerization practices.
 
-[Interested in Azure + containers?](https://github.com/Kariyampalli/Befunge-Interpreter)
+[Looking for an Azure-based software deployment pipeline?](https://github.com/Kariyampalli/Software-Deployment)
 
 ## Skills
 
