@@ -60,7 +60,7 @@ Hi, I'm **_Christy Kariyampalli_**, a passionate software developer always eager
 
 > An offline **Chess game** developed in **C#** using **WPF**. This project features a simple, intuitive interface for playing chess against another local player.
 
-[Lonely? Great! play against yourself.](https://github.com/Kariyampalli/WPF-Chess)
+[Lonely? Great! play against yourself.](https://github.com/Kariyampalli/Chess)
 
 ---
 
